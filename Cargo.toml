@@ -5,3 +5,7 @@ authors = ["Ashton Kemerling <ashtonkemerling@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+
+[[bin]]
+name = "one"
+path = "src/one.rs"
